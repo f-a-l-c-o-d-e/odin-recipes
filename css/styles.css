@@ -12,3 +12,12 @@ h1 {
     font-size: 20px;
     text-align: center;
 }
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.img {
+    text-align: center;
+}
