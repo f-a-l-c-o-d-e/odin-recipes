@@ -1,0 +1,8 @@
+h1 {
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+    font-family: "Lucida Console", Monaco, "Courier New", monospace;
+    font-size: 75px;
+    font-weight: 700;
+    text-align: center;
+}
