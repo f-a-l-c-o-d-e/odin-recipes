@@ -6,3 +6,9 @@ h1 {
     font-weight: 700;
     text-align: center;
 }
+
+.menu {
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+}
