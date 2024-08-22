@@ -45,7 +45,6 @@ img {
     margin: 5px auto 10px auto;
 }
 
-
 h2 {
     background-color: rgba(227,178,97,255);
     color: rgb(255,255,255);;
@@ -53,6 +52,7 @@ h2 {
     font-size: 35px;
     font-weight: 700;
     text-align: center;
+    margin: 10px 5px 5px 5px;
 }
 
 p,
@@ -60,4 +60,10 @@ li {
     font-weight: 200;
     font-family: monospace;
     font-size: 17px;
+    padding: 5px;
+}
+
+ul,
+ol {
+    list-style-position: inside;
 }
