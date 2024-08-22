@@ -41,12 +41,10 @@ h1 {
 img {
     width: 300px;
     height: auto;
+    display: block;
+    margin: 5px auto 10px auto;
 }
 
-.img {
-    text-align: center;
-    margin: 5px 0px 10px 0px;
-}
 
 h2 {
     background-color: rgba(227,178,97,255);
