@@ -19,13 +19,24 @@ h1 {
 
 .menu,
 .sub-menu {
+    text-align: center;
+}
+
+.menu li,
+.sub-menu li {
+    display: inline-block;
     font-family: monospace;
     font-size: 20px;
-    text-align: center;
 
     padding: 5px;
-    margin: 15px 5px 15px 5px;
+    margin: 5px 5px 15px 5px;
+    border: 3px solid rgba(227,178,97,255);
 }
+
+.sub-menu li {
+    margin-top: 25px;
+}
+
 
 img {
     width: 300px;
@@ -34,6 +45,7 @@ img {
 
 .img {
     text-align: center;
+    margin: 5px 0px 10px 0px;
 }
 
 h2 {
